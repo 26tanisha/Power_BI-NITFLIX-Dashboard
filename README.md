@@ -9,7 +9,8 @@ Netflix-Project
 
  -[Dataset - Netflix Shows (CSV)](https://github.com/26tanisha/Power_BI-NITFLIX-Dashboard/blob/main/titles.csv)
  -[MySQL Queries (netflix_sql_project.sql)](https://github.com/26tanisha/Power_BI-NITFLIX-Dashboard/blob/main/netflix_sql_project.sql)
-- [Power BI Dashboard (netflix_project.pbix)](./netflix_project.pbix)
+  [Download the Netflix Power BI Dashboard](https://github.com/your-username/netflix-project/raw/main/netflix_project.pbix)
+
  -[Pandas Data Analysis (Jupyter Notebook)](https://github.com/26tanisha/Power_BI-NITFLIX-Dashboard/blob/main/netflix_project.ipynb)
 
 Tools Used: Pandas, MySQL, Power Bi
