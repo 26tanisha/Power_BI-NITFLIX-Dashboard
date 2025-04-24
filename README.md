@@ -7,8 +7,9 @@ Netflix-Project
 
 ## 🔗 Project Files & Resources
 
-- 📁 [Dataset - Netflix Shows (Kaggle)]("titles.csv")
-- 🔍 [MySQL Queries]("C:\Users\tanis\Downloads\netflix_sql_project.sql")
+- 📁 [Dataset - Netflix Shows (Kaggle)]("titles.csv") 
+👉 [MySQL Queries (netflix_sql_project.sql)](https://github.com/26tanisha/Power_BI-NITFLIX-Dashboard/blob/main/netflix_sql_project.sql)
+
 - 📈 [Power BI Dashboard](netflix_project.pbix)
 - 📓 [Pandas Data Analysis (Jupyter Notebook)]("netflix_project.ipynb")
 
