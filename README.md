@@ -7,11 +7,10 @@ Netflix-Project
 
 ## 🔗 Project Files & Resources
 
-- 📁 [Dataset - Netflix Shows (Kaggle)]("https://github.com/26tanisha/Power_BI-NITFLIX-Dashboard/blob/main/titles.csv") 
-👉 [MySQL Queries (netflix_sql_project.sql)](https://github.com/26tanisha/Power_BI-NITFLIX-Dashboard/blob/main/netflix_sql_project.sql)
-
-- 📈 [Power BI Dashboard](netflix_project.pbix)
-- 📓 [Pandas Data Analysis (Jupyter Notebook)]("netflix_project.ipynb")
+ [Dataset - Netflix Shows (CSV)](https://github.com/26tanisha/Power_BI-NITFLIX-Dashboard/blob/main/titles.csv)
+ [MySQL Queries (netflix_sql_project.sql)](https://github.com/26tanisha/Power_BI-NITFLIX-Dashboard/blob/main/netflix_sql_project.sql)
+ [Power BI Dashboard](netflix_project.pbix)
+ [Pandas Data Analysis (Jupyter Notebook)]("netflix_project.ipynb")
 
 Tools Used: Pandas, MySQL, Power Bi
 Business Problem
