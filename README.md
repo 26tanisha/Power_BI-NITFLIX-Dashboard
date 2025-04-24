@@ -3,6 +3,15 @@
 <img src="nitflix_logo.png" alt="Dashboard" width="600">
 Netflix-Project
 
+
+
+## 🔗 Project Files & Resources
+
+- 📁 [Dataset - Netflix Shows (Kaggle)]("C:\Users\tanis\Downloads\titles.csv")
+- 🔍 [MySQL Queries]("netflix_sql_project.sql")
+- 📈 [Power BI Dashboard](netflix_project.pbix)
+- 📓 [Pandas Data Analysis (Jupyter Notebook)]("netflix_project.ipynb")
+
 Tools Used: Pandas, MySQL, Power Bi
 Business Problem
 Netflix wants to extract meaningful insights from a large dataset (~82K rows) of movies and shows but struggles with analyzing it effectively due to its size and complexity.
