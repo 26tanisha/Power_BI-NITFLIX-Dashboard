@@ -1,3 +1,4 @@
 # PowerBI-NITFLIX-Dashboard
-This is a power bi end to end project.
-Author - Tanisha
+
+<img src="nitflix_logo.png" alt="Dashboard" width="600">
+Netflix-Project
